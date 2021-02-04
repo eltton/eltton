@@ -6,7 +6,7 @@
 
 :writing_hand: Mais informações acesse meu [Web Portfólio](https://eltonpereira.dev/).
 
-## Skill
+## Skills
 
 <table>
   <tbody>
