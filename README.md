@@ -4,7 +4,7 @@
 
 :vulcan_salute: Recentemente, venho me atualizando sobre as principais tecnologias para desenvolvimento web moderno. 
 
-:writing_hand: Mais informações acesse meu [Web Portfólio](https://eltonpereira.dev/).
+:writing_hand: Mais informações acesse meu [Portfólio](https://eltonpereira.dev/).
 
 ## Skills
 
