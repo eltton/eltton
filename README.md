@@ -1,12 +1,12 @@
-# Olá, me chamo Elton Pereira! 👋🏾
+# Hi, I am Elton Pereira! 👋🏾
 
 ### 👨🏾‍💻 About me
 
-🎓 Sou Bacharel em Ciência da Computação desde 2015. 
+🎓 I have a bachelor's degree in Computer Science!
 
-:vulcan_salute: Venho me atualizando sobre as principais tecnologias para desenvolvimento web. 
+:vulcan_salute: Web Developer. 
 
-:writing_hand: Mais informações acesse meu [Portfólio](https://eltonpereira.dev/).
+:writing_hand: My [Portfolio](https://eltonpereira.dev/).
 
 
 ### 🛠 Tech Stack
