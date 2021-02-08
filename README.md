@@ -29,3 +29,8 @@
 <a href="https://twitter.com/elton_pereira/" target="blank"><img src="https://img.shields.io/badge/elton_pereira-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://eltonpereira.dev/" target="blank"><img src="https://img.shields.io/badge/eltonpereira.dev-1DA1F2?style=for-the-badge" /></a>
 
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=eltton.eltton)
+
+
