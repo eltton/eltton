@@ -24,7 +24,7 @@
 
 ### 📬 Connect with me
 
-<a href="https://www.linkedin.com/in/eltton/" target="blank"><img src="https://img.shields.io/badge/ElizeuLouzeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/eltonfx/" target="blank"><img src="https://img.shields.io/badge/ElizeuLouzeiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/elton_pereira" target="blank"><img src="https://img.shields.io/badge/ElizeuMatheus_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/eltton/" target="blank"><img src="https://img.shields.io/badge/EltonPereira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/eltonfx/" target="blank"><img src="https://img.shields.io/badge/EltonPereira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://twitter.com/elton_pereira" target="blank"><img src="https://img.shields.io/badge/EltonPereira-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
