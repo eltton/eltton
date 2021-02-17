@@ -8,6 +8,15 @@
 
 :writing_hand: My [Portfolio](https://eltonpereira.dev/).
 
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltton&langs_count=7&hide=html&layout=compact&theme=radical" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=eltton&theme=radical&show_icons=true"/></td>
+    </tr>   
+  </table>
+</center>
+
 
 ### 🛠 Tech Stack
 
